@@ -1,0 +1,5 @@
+# pt_BR.utf-8
+
+Adiciona "__ms_" para "va_*".
+Atenção com os parâmetros finais de JDialogBox, em "jwp_info.cpp".
+Muitas conversões de "unsigned char" para "char"...
